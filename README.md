@@ -1,2 +1,2 @@
-# nayiiwet
-နာရီဝက် (half-hour)
+# နာရီဝက်
+nayiiwet (half-hour)
